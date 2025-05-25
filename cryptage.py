@@ -17,7 +17,7 @@ for char in acrypter:
         
 print(MessageCrypte)
 
-# Chiffrement personaliser
+# Chiffrement personnaliser
 cle = int(input("Cle : "))
 taille_bloc = int(input("Nb caractere avant reboot : ")) #maximum 6
 
