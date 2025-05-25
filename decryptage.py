@@ -1,4 +1,4 @@
-# Chiffrement personaliser
+# Chiffrement personnaliser
 def nombre_vers_lettre(n):
     if n == 27:
         return "_"
